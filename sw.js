@@ -1,4 +1,4 @@
-const CACHE_NAME = 'emotion-cards-v1';
+const CACHE_NAME = 'helloWord';
 const urlsToCache = [
   '/mockBiz/',
   '/mockBiz/index.html',
