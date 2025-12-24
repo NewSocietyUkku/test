@@ -1,7 +1,7 @@
 {
-  "name": "Emotion Code Cards",
-  "short_name": "EmotionCards",
-  "start_url": "/mockBiz/",
+  "name": "helloWorld",
+  "short_name": "helloWorld",
+  "start_url": "/test/",
   "display": "standalone",
   "background_color": "#f5f7fa",
   "theme_color": "#3498db",
